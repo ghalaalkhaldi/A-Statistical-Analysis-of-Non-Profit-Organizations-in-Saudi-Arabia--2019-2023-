@@ -24,7 +24,7 @@ This project investigates trends and patterns within the non-profit sector of Sa
 4.  **Review the Report:** Access the full detailed report in PDF format located in the `docs/` folder.
 
 ## License
-This project is open-sourced under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ---
 
