@@ -25,3 +25,8 @@ This project investigates trends and patterns within the non-profit sector of Sa
 
 ## License
 This project is open-sourced under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+**Contact:**
+Ghala M. Alkhaldi - ghalaalkhaldi10@gmail.com
